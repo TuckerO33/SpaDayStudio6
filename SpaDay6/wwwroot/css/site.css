@@ -16,3 +16,35 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#red {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  position: relative;
+}
+
+#blue {
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+  position: relative;
+}
+
+#purple {
+  height: 50px;
+  width: 50px;
+  background-color: purple;
+  position: relative;
+}
+
+#extraClear {
+  height: 50px;
+  width: 50px;
+  background-color: transparent;
+  position: relative;
+}
+
+#flexBox{
+  display: flex;
+}
